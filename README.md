@@ -7,11 +7,12 @@ Lektion vecka 6, JavaScript i webbläsaren
 
 
 Veckoprojekt
-+ [projektet](projekt.md)
-+ [inlämning](https://docs.google.com/forms/d/e/1FAIpQLSdd-SsnUdmEGHyAAr930i_MgQBNfWadpogx_FW_Up48nQDIzQ/viewform?usp=sf_link)
++ [Projektet](projekt.md)
++ [Inlämning](https://docs.google.com/forms/d/e/1FAIpQLSdd-SsnUdmEGHyAAr930i_MgQBNfWadpogx_FW_Up48nQDIzQ/viewform?usp=sf_link)
 
 Inspelning
-+ Länk kommer
++ [Länk till inspelning](https://folkuniversitetet-se.zoom.us/rec/share/ZHLGBhk9GLISmmNRAEwlp7acASf8CFZQDwCQic-aqjGaVvhLRgv5xxgqbgPtVUgd.wS4Rt-1qQhsbM4Ou)
++ Lösenkod: `2FmV75^@`
 
 
 ## Resurser
