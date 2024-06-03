@@ -7,8 +7,8 @@ Lektion vecka 6, JavaScript i webbläsaren
 
 
 Veckoprojekt
-+ projektet - kommer
-+ inlämning - kommer
++ [projektet](projekt.md)
++ [inlämning](https://docs.google.com/forms/d/e/1FAIpQLSdd-SsnUdmEGHyAAr930i_MgQBNfWadpogx_FW_Up48nQDIzQ/viewform?usp=sf_link)
 
 Inspelning
 + Länk kommer
