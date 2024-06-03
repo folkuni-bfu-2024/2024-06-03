@@ -43,7 +43,7 @@ output.classList.toggle('hot')
 
 2 Vi bygger vidare på koden från uppgift 1 med mera JavaScript. Vad gör koden?
 ```js
-const elem = document.querySelector('.container > :first')
+const elem = document.querySelector('.container > :first-child')
 output.innerHTML += '<br>' + elem.innerText
 ```
 
