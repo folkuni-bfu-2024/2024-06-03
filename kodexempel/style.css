@@ -24,3 +24,20 @@ button:hover {
 	background-color: rgb(18, 31, 119);
 	color: rgb(144, 164, 233);
 }
+
+
+/* Menu */
+.menu {
+	display: flex;
+	flex-direction: row;
+}
+.item {
+	border: 1px solid black;
+	padding: 0.5em 1em;
+	background-color: rgb(61, 18, 121);
+	color: rgb(176, 141, 225);
+}
+.selected {
+	color: rgb(61, 18, 121);
+	background-color: rgb(176, 141, 225);
+}

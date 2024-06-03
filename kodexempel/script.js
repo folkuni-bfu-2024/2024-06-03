@@ -1,4 +1,14 @@
+import { createMenus } from './menu.js'
+
 console.log('Hello world!')  // testa att skript-filen körs
+
+/* Våra redskap:
+console.log
+querySelector, querySelectorAll
+innerText
+addEventListener('click', functionName)
+classList: .add, .remove, .toggle
+*/
 
 const output = document.querySelector('.output')
 if( output === null ) {
@@ -13,10 +23,14 @@ let count = 0
 const countButton = document.querySelector('#count-button')
 countButton.addEventListener('click', counter)
 
-function counter() {
+function counter(event) {
+	// console.log('Vad får vi från webbläsaren? ', event)
 	count++
 	output.innerText = 'Antal klick: ' + count
 
 	countButton.classList.add('alternate-button')
 	// classList.toggle för att byta
 }
+
+
+createMenus()
