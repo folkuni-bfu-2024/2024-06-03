@@ -1,0 +1,26 @@
+body {
+	background-color: rgb(234, 144, 234);
+}
+
+.output {
+	border: 1px solid rgb(42, 4, 46);
+	min-height: 1em;
+	padding: 0.5em;
+	border-radius: 0.5em;
+	background-color: rgb(236, 167, 236);
+}
+
+#count-button {
+	background-color: purple;
+	color: rgb(236, 167, 236);
+	padding: 0.4em 1.2em;
+	border: none;
+}
+button:hover {
+	cursor: pointer;
+}
+
+#count-button.alternate-button {
+	background-color: rgb(18, 31, 119);
+	color: rgb(144, 164, 233);
+}
