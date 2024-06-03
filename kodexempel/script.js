@@ -1,4 +1,5 @@
 import { createMenus } from './menu.js'
+import { initializeFruitList } from './fruit-list.js'
 
 console.log('Hello world!')  // testa att skript-filen körs
 
@@ -34,3 +35,4 @@ function counter(event) {
 
 
 createMenus()
+initializeFruitList()
